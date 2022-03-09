@@ -30,7 +30,7 @@ Dedicated to the greatest danish g-engineer/brewer.
 ![](photos/g25.seic)
 ![](photos/g26.jpg)
 ![](photos/g27.jpg)
-![](photos/g28.jpg)
+![](photos/g28.heic)
 ![](photos/g29.jpg)
 ![](photos/g30.jpg)
 ![](photos/g31.jpg)
